@@ -1,2 +1,3 @@
 .vagrant/
 ssl/
+.DS_Store
