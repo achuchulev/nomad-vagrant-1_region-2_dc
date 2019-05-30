@@ -1,4 +1,4 @@
-# nomad cluster with mutual tls in one region and two dcs  
+# Nomad cluster in one region and two datacenters  
 
 ### High-level overview
 <img src="diagrams/nginx-reverse-proxy-nomad-1-region-2-dcs.png" />
